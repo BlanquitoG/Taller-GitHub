@@ -1,4 +1,8 @@
+<div align="center">
+  
 # *Proyecto BlaBlacar*
+
+</div>
 
 ## ¿Que es BlaBlacar? 
 
@@ -18,3 +22,27 @@ El panorama fue desigual según el país: Rusia e India prohibieron el carpoolin
 
 
 </details>
+<details>
+<summary> Su reaccion ante la situacion </summary>
+BlaBlaCar reaccionó rápido desde el inicio de la crisis: recortó costos, protegió a su equipo y se mantuvo en contacto con su comunidad. Durante el primer confinamiento lanzó además BlaBlaHelp, una aplicación gratuita de ayuda entre vecinos que permitía ofrecerse como voluntario o encontrar personas de confianza para hacer compras de primera necesidad o recoger medicamentos.
+La compañía también apostó por la confianza de los usuarios, aplicando protocolos sanitarios y destacando que el carpooling reduce el número de contactos entre personas en comparación con otros medios de transporte.
+
+</details>
+
+<details>
+<summary> Recuperacion </summary>
+En abril, Brusson preparaba a sus equipos para una reanudación muy lenta, de entre 12 y 18 meses, pero desde fines de junio la demanda de pasajeros volvió con fuerza. En agosto, las solicitudes en Francia superaban en un 15 % las del verano anterior, ayudadas por las vacaciones dentro del país y por la menor oferta de trenes, autobuses y aviones. La oferta de conductores volvió algo más despacio que la demanda.
+Fuera de Europa el golpe fue menor. Brasil, Mexico, India y Ucrania tuvieron restricciones menos estrictas, y en países como Rusia e India la crisis empujó la compra de pasajes de autobús en línea. Con todo, el segundo trimestre se dio por perdido y el segundo confinamiento volvió a frenar el impulso: BlaBlaBus se detuvo el 1 de noviembre y no regresaría hasta la primavera, así que la empresa volcó sus esfuerzos en el carpooling para cerrar el año.
+
+</details>
+
+## Resultados
+
+El año cerró con 50 millones de pasajeros frente a unos 70 millones en 2019, lo que representó el primer año de decrecimiento de la empresa. Aun así, mantuvo más del 70 % de su actividad, un resultado notable considerando que paso por el año de cuarentena debdido al Covid'19.
+
+| Indicador | Usuarios|
+|---------|---------|
+| Pasajeros 2019| 70 millones|
+| Pasajeros 2020 | 50 millones|
+| Varianza| -30%|
+|Actividad mantenida| mas del 70% en comparacion al año anterior|
