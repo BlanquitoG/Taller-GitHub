@@ -9,6 +9,12 @@
 BlaBlaCar es una plataforma de viajes compartidos que conecta a conductores con asientos libres y a pasajeros que van hacia el mismo destino. Fue fundada en 2006 en Francia por Frédéric Mazzella, Nicolas Brusson y Francis Nappez, y en 2020 estaba dirigida por Brusson, cofundador y CEO desde 2016.
 Su modelo es asset-light: la empresa no tiene vehículos ni conductores propios, sino que funciona como un marketplace comunitario. Con el tiempo pasó de ser solo una aplicación de carpooling (funciona como una aplicacion de viaje en carro como Uber pero compartido con mas usuarios) a ofrecer una propuesta multimodal, con BlaBlaBus para los viajes en autobús y BlaBlaLines para los trayectos cortos del día a día.
 
+<div align="center">
+
+![Ima_1](blablacar.jpg).
+
+</div>
+
 ## ***Momento del boom***
 <details>
   <summary> Antes del Covid-19 </summary>
@@ -46,3 +52,12 @@ El año cerró con 50 millones de pasajeros frente a unos 70 millones en 2019, l
 | Pasajeros 2020 | 50 millones|
 | Varianza| -30%|
 |Actividad mantenida| mas del 70% en comparacion al año anterior|
+
+Los mercados fuera de Europa, como Brasil, México, India y Ucrania, tuvieron menos restricciones más flexibles lo que conllevo a que, la crisis acelerara la compra de pasajes de autobús en línea en países como Rusia e India, donde antes la mayoría se compraba en la estación.
+
+<div align="center">
+
+![Gif_1](gif_stonks.gif).
+
+</div>
+
